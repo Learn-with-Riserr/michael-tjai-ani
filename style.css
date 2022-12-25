@@ -27,7 +27,7 @@ h1 {
 
 h1:hover {
   color: transparent;
-  transition: 2s;
+  transition: 1s;
 }
 
 h1::after {
